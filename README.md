@@ -1,6 +1,6 @@
-### Hi there 👋!
+### Olá, Família 👋!
 
-Preparrando o repositório para receber os primeiros projetos.
+Preparando o repositório para receber os primeiros projetos.
 
 <!--
 **ismargomes/ismargomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
